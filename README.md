@@ -49,6 +49,7 @@ kioto-ics2175-c-lab01/
 ├── src/                  # Exercise source files (edit these)
 ├── report/               # Report template and evidence checklist
 ├── tests/                # Automated checks (Python)
+├── tools/                # Student helper scripts (variant lookup)
 ├── .github/              # Pull request template and CI workflow
 └── lecturer/             # Lecturer-only assessment resources
 ```
