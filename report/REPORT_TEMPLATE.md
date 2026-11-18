@@ -6,7 +6,7 @@
 - **Registration Number:** ENB211-0139/2025
 - **Programme:** AGRICULTURAL AND BIOSYSTEMS ENGINEERING
 - **GitHub Username:** Hershi-23
-- **Assigned Scenario:**Your assigned programming scenario
+- **Assigned Scenario:**
 A campus printing desk estimates the cost of printed pages.
 
 Variable Apages printed = 105
